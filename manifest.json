@@ -1,0 +1,15 @@
+{
+    "manifest_version" : 2,
+    "name": "Course Project",
+    "version" : "0.1.0",
+    "author": "tbdinh2, lbn2",
+    "permissions": [
+        "contextMenus",
+        "tabs"
+    ],
+    "browser_action" : {
+        "default_popup": "popup.html",
+        "default_title": "Course Project"
+    },
+    "content_security_policy":"script-src 'self' https://apis.google.com; object-src 'self'"
+}
