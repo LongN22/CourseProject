@@ -1,7 +1,11 @@
 # CourseProject
 
+To use the program run script.ipynb
 
 
+Change the site variable with Yelp Restaurant link to analyze the review
+
+Instructions:
 - create python 3.5 env
 ```Python
   pip install --upgrade pip
